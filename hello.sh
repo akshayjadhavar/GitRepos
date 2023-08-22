@@ -1,7 +1,8 @@
 echo
-echo ""[DHello World"
+echo "Hello World"
 echo
-echo ""[DHello India"
+echo "Hello India"
 echo
-echo ""[DHello Pune"
+echo "Hello Pune"
 echo
+echo "Hello to Git and GitHub"
